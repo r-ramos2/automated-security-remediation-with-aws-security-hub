@@ -1,1 +1,1 @@
-# automated-security-remediation-with-aws-security-hub
+# Automated Security Remediation with AWS Security Hub
